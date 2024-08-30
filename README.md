@@ -1,23 +1,28 @@
-# Expense Tracker
-Expense Tracker is an expenses tracking web App for tracking your daily expenses in seconds. You can use it in your daily life or you can use it for your rough calculations of your shopping. So don't forget to use it next time when you are spending and saving!!
+# Spend Smart
+Expense Tracker is a web app designed to help you effortlessly track your daily expenses in seconds. Whether you want to manage your everyday spending or quickly calculate your shopping costs, Expense Tracker is the perfect tool. Don’t forget to use it next time you spend or save!
 <br><br>
-It is responsive on every screen devices :)
+It is fully responsive on all devices
 <hr>
 
-## Working Web App can be found here+
+## You can access the working web app here:
 
 https://expense-tracker-webb.vercel.app/
 
-## Tech Stack used is
+## The tech stack utilized includes:
 
- <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
- <img src="https://camo.githubusercontent.com/bec2c92468d081617cb3145a8f3d8103e268bca400f6169c3a68dc66e05c971e/68747470733a2f2f76352e676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" title="boostrap" alt="bootstrap" width="40" height="40"/>
+ ## Tech Stack Used
+
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
  <hr>
 
 ## Screenshots 
+
+<img width="582" alt="Screenshot 2024-08-30 at 1 26 47 PM" src="https://github.com/user-attachments/assets/0298c9cb-c2fd-4b2a-9301-1eb7b2a86d3b">
+
 
 <hr>
 
@@ -25,22 +30,20 @@ https://expense-tracker-webb.vercel.app/
 Clone the project
 
 ```bash
-  git clone https://github.com/Chirag047/Expense-Tracker.git
+  git clone https://github.com/Srinu1976/Spend Smart.git
 ```
 Go to the project directory
 
 ```bash
-  cd Expense-Tracker
+  cd Spend Smart
 ```
-Start the development by running file index.html with live server extension.
+Begin the development process by opening the index.html file with the Live Server extension.
 
 <hr>
   
 ## Contact
 
-If you want to contact me, you can reach me through below handles.
+If you would like to get in touch, please reach out to me using the contact information provided below.
 
-[![linkedin](https://img.shields.io/badge/Chirag_Nagar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chiragnagar047/)
-[![GitHub](https://img.shields.io/badge/Chirag_Nagar-252525?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Chirag047)
-
-[@Chirag047](https://github.com/Chirag047)
+[![linkedin](https://img.shields.io/badge/Srinu1976-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinu1976/)
+[![GitHub](https://img.shields.io/badge/Srinu1976-252525?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Srinu1976)
